@@ -35,12 +35,13 @@ h1 {
 }
 .scoreDisplay {
   font-size: 2rem;
+  color: blue;
 }
 .greenText,
 #playerScoreDisplay {
   color: rgb(26, 223, 26);
 }
-.redTex,
+.redText,
 #computerScoreDisplay {
   color: rgb(231, 28, 28);
 }
